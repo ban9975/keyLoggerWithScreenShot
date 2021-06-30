@@ -1,4 +1,6 @@
-# key Logger with Screen Shot
+# Red Team -- Key Logger with Screen Shot
+This program can monitor the user's keyboard input and take a screenshot when the user press enter.  
+The data will be sent to you via gmail.
 ## Enviroment Setup
 1. pip install pynput  
 2. pip install pyautogui
